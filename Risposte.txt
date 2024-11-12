@@ -1,0 +1,5 @@
+1) è un insieme di step per la soluzione di un problema
+
+2) sono dei contenitori che riempiamo e dove conserviamo i nostri risultati parziali
+
+3) quando una variabile viene dichiarata il suo contenuto è indefinito, invece con "null" svuotiamo il suo contenuto
